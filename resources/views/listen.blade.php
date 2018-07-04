@@ -3,8 +3,6 @@
 <head>
     <meta charset="UTF-8">
 
-    /* todo : don't forget this */
-    <meta name="csrf-token" content="{{ csrf_token() }}">
 
     <title>Laravel Event Broadcasting Example</title>
     <style>

@@ -7,12 +7,15 @@ npm install --save express
 npm install --save ioredis
 npm install --save socket.io
 
+composer require predis/predis
+
+
 
 create  socket.js server and copy the code inside it
 node socket.js
 
 
-composer require predis/predis
+
 
 todo : make sure to open redis on port 6379 ( the default port )
 
