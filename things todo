@@ -1,0 +1,20 @@
+
+
+todo : commands ( packages )
+npm install --save laravel-echo
+npm install --save socket.io-clint
+npm install --save express
+npm install --save ioredis
+npm install --save socket.io
+
+
+create  socket.js server and copy the code inside it
+node socket.js
+
+
+composer require predis/predis
+
+todo : make sure to open redis on port 6379 ( the default port )
+
+
+todo : change the env file ( brodcast)
